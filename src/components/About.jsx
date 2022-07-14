@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
                 <p>
-                  tengo 30 años y desde muy joven he estado
+                  Nacido en Reus,tengo 30 años y desde muy joven he estado
                   en contacto con el mundo de la informática. Como hobby,
                   entre otros, tengo el proyecto en curso de creación de un
                   estudio de producción y grabación musical.
