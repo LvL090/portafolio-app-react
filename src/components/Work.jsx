@@ -1,5 +1,4 @@
 import React from 'react';
-import WorkImg from '../assets/workImg.jpeg';
 import Trivial from '../assets/trivial.png';
 import Drop from '../assets/drop.png';
 import Calc from '../assets/calculadora.jpg';
