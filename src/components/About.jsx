@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300 pb-40 lg:pt-40 '>
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
@@ -13,11 +13,11 @@ const About = () => {
           <div></div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
+            <div className='  sm:text-right text-4xl font-bold '>
               <p>Hola!. Soy Dani, encantado de conocerte.</p>
             </div>
             <div>
-                <p>
+                <p className='break-words pb-80 '>
                   Nacido en Reus,tengo 30 años y desde muy joven he estado
                   en contacto con el mundo de la informática. Como hobby,
                   entre otros, tengo el proyecto en curso de creación de un
