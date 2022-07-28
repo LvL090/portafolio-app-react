@@ -2,6 +2,8 @@ import React from 'react';
 import Trivial from '../assets/trivial.png';
 import Drop from '../assets/drop.png';
 import Calc from '../assets/calculadora.jpg';
+import Test from '../assets/test.png'
+import Login from '../assets/login.png'
 
 const Work = () => {
   return (
@@ -87,6 +89,45 @@ const Work = () => {
                 </a>
               </div>
             </div>
+            
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Test})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                Node.js  (Habits+)
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://github.com/LvL090/Habits-Back-End'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Código
+                  </button>
+                </a>
+              </div>
+            </div>
+            
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Login})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                React  (Habits+)
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://github.com/LvL090/Habits-Front-End'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Código
+                  </button>
+                </a>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>
