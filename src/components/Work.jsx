@@ -30,12 +30,12 @@ const Work = () => {
                 Vue JS (Responsive)
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://etrivial.netlify.app/'>
+                <a href='https://etrivial.netlify.app/' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/LvL090/eTrivial'>
+                <a href='https://github.com/LvL090/eTrivial' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
@@ -53,12 +53,12 @@ const Work = () => {
                 React  (Escritorio)
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://drop-zone-amber.vercel.app/'>
+                <a href='https://drop-zone-amber.vercel.app/' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/LvL090/Drop-zone'>
+                <a href='https://github.com/LvL090/Drop-zone' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
@@ -77,12 +77,12 @@ const Work = () => {
                 React  (Responsive)
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://lvl090.github.io/CalculatorReact/'>
+                <a href='https://lvl090.github.io/CalculatorReact/' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/LvL090/CalculatorReact'>
+                <a href='https://github.com/LvL090/CalculatorReact' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>
@@ -100,7 +100,7 @@ const Work = () => {
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Node.js  (Habits+)
               </span>
-              <div className='pt-8 text-center'>
+              <div className='pt-8 text-center' target='_blanck'>
                 <a href='https://github.com/LvL090/Habits-Back-End'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
@@ -120,7 +120,7 @@ const Work = () => {
                 React  (Habits+)
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/LvL090/Habits-Front-End'>
+                <a href='https://github.com/LvL090/Habits-Front-End' target='_blanck'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Código
                   </button>

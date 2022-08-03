@@ -21,11 +21,11 @@ const About = () => {
                   Nacido en Reus,tengo 30 años y desde muy joven he estado
                   en contacto con el mundo de la informática. Como hobby,
                   entre otros, tengo el proyecto en curso de creación de un
-                  estudio de producción y grabación musical.
-                  
+                  estudio de producción y grabación musical. <br />
+                  <br/>
                   Este año, finalmente he dado el cambio a nivel profesional
-                  realizando un Bootcamp full-stack, el cual actualmente estoy
-                  finalizando (850h). Asimismo, también he completado la
+                  realizando un Bootcamp full-stack (850h). <br/> 
+                   Asimismo, también he completado la
                   certificación de TI de Google (200h) y actualmente estoy
                   cursando certificado de Diseño de Experiencia del Usuario
                   (UX) de Google (200h)
